@@ -1,0 +1,9 @@
+{
+  "name": "ProgressionDemo.Tests",
+  "rootNamespace": "OguzhanOzdemir.ProgressionDemo.Tests",
+  "references": ["ProgressionDemo.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
+

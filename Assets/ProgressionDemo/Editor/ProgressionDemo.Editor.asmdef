@@ -1,0 +1,8 @@
+{
+  "name": "ProgressionDemo.Editor",
+  "rootNamespace": "OguzhanOzdemir.ProgressionDemo.Editor",
+  "references": ["ProgressionDemo.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
+

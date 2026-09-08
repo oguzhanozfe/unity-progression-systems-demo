@@ -1,0 +1,7 @@
+{
+  "name": "ProgressionDemo.Runtime",
+  "rootNamespace": "OguzhanOzdemir.ProgressionDemo",
+  "references": ["Unity.ugui"],
+  "autoReferenced": true
+}
+
