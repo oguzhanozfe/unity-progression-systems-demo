@@ -18,8 +18,8 @@ Unity, timing or scene objects, so their behavior is covered by EditMode tests.
 
 The controller translates button and keyboard input into domain commands. It
 animates only accepted moves and persists only snapshots returned by the domain
-model. The interface is generated at runtime from Unity primitives; the public
-repository carries no commercial art package or proprietary test material.
+model. The interface is generated at runtime from Unity primitives and uses no
+third-party assets.
 
 ## Deliberate boundaries
 
